@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "nome": "Notebook Dell Inspiron 15",
+    "categoria": "Equipamentos Eletrônicos",
+    "deposito": 100.00,
+    "disponivel": true,
+    "avaliacaoMedia": 4.8,
+    "comentarios": [
+      "Funciona perfeitamente.",
+      "Bateria dura bastante."
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Notebook Lenovo IdeaPad",
+    "categoria": "Equipamentos Eletrônicos",
+    "deposito": 90.00,
+    "disponivel": false,
+    "avaliacaoMedia": 4.5,
+    "comentarios": [
+      "Ótimo para programação."
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Roteador TP-Link Archer C6",
+    "categoria": "Equipamentos Eletrônicos",
+    "deposito": 40.00,
+    "disponivel": true,
+    "avaliacaoMedia": 4.6,
+    "comentarios": [
+      "Sinal muito bom."
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Cabo HDMI 2m",
+    "categoria": "Cabos e Acessórios",
+    "deposito": 10.00,
+    "disponivel": true,
+    "avaliacaoMedia": 4.3,
+    "comentarios": [
+      "Sem defeitos."
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Cabo de Rede CAT6",
+    "categoria": "Cabos e Acessórios",
+    "deposito": 8.00,
+    "disponivel": true,
+    "avaliacaoMedia": 4.2,
+    "comentarios": [
+      "Velocidade excelente."
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Calculadora Científica Casio FX-991",
+    "categoria": "Calculadoras",
+    "deposito": 25.00,
+    "disponivel": true,
+    "avaliacaoMedia": 5.0,
+    "comentarios": [
+      "Perfeita para Cálculo."
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Multímetro Digital",
+    "categoria": "Ferramentas",
+    "deposito": 30.00,
+    "disponivel": true,
+    "avaliacaoMedia": 4.7,
+    "comentarios": [
+      "Muito útil nas aulas práticas."
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Protoboard 830 pontos",
+    "categoria": "Ferramentas",
+    "deposito": 12.00,
+    "disponivel": true,
+    "avaliacaoMedia": 4.4,
+    "comentarios": [
+      "Boa qualidade."
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Livro - Circuitos Elétricos",
+    "categoria": "Livros para Eletrotécnica",
+    "deposito": 20.00,
+    "disponivel": true,
+    "avaliacaoMedia": 4.9,
+    "comentarios": [
+      "Excelente para estudar."
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Livro - Máquinas Elétricas",
+    "categoria": "Livros para Eletrotécnica",
+    "deposito": 22.00,
+    "disponivel": false,
+    "avaliacaoMedia": 4.8,
+    "comentarios": [
+      "Muito completo."
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Livro - Linguagem C",
+    "categoria": "Livros para Programação",
+    "deposito": 15.00,
+    "disponivel": true,
+    "avaliacaoMedia": 4.7,
+    "comentarios": [
+      "Ótimo para iniciantes."
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Livro - Banco de Dados",
+    "categoria": "Livros para Programação",
+    "deposito": 18.00,
+    "disponivel": true,
+    "avaliacaoMedia": 4.5,
+    "comentarios": [
+      "Explica SQL muito bem."
+    ]
+  }
+]
